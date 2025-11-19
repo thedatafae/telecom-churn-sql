@@ -2,7 +2,6 @@
 
 This repository contains a comprehensive **telecom customer churn analysis** project using SQL. The analysis explores customer behavior, subscription patterns, and factors influencing churn, providing actionable insights and recommendations for business decision-making.
 
----
 
 ## Repository structure
 ```
@@ -29,7 +28,6 @@ telecom-churn-sql/
 - **Usage_metrics.csv**: Records customer interactions such as usage frequency and support calls.
 - **Total Rows**: ~440,800 combined across all datasets.
 
----
 
 ## Objectives
 
@@ -40,7 +38,6 @@ The main goals of this project are:
 3. Evaluate revenue impact across different customer segments.
 4. Provide **actionable recommendations** for retention strategies.
 
----
 
 ## Key Analysis Questions
 
@@ -54,7 +51,7 @@ The SQL queries address business-relevant questions such as:
 - Which **tenure group** contributes most to revenue?
 - How does **usage frequency** correlate with churn?
 
----
+
 
 ## SQL Queries
 
@@ -66,7 +63,7 @@ All analysis queries are available in:
 - Uses basic SQL functions like `COUNT`, `SUM`, `AVG`, `ROUND`, and `GROUP BY`.
 - Designed to extract insights for both business metrics and decision-making.
 
----
+
 
 ## Insights & Recommendations
 
@@ -82,7 +79,7 @@ Key highlights include:
 - Age and tenure affect customer retention and spending patterns.
 - High-value customers are identified for targeted retention strategies.
 
----
+
 
 ## How to Use This Repository
 
@@ -91,7 +88,7 @@ Key highlights include:
 3. **Review the insights** in `reports/insights_and_recommendations.pdf`.
 4. Optionally, **modify queries** to explore additional business questions or segment analysis.
 
----
+
 
 ## Technologies Used
 
@@ -99,7 +96,7 @@ Key highlights include:
 - CSV for dataset storage
 - PDF for reporting insights
 
----
+
 
 ## Author
 
